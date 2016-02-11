@@ -1,0 +1,33 @@
+_repo: Orleans-in-neitsyt-Romantillinen-murhenaytelma_48308
+contributor:
+  translator:
+    agent_name: Avellan, Edvin
+    alias: Tarkki, Edv.
+    birthdate: 1830
+    deathdate: 1912
+    gutenberg_agent_id: '26317'
+    url: http://www.gutenberg.org/2009/agents/26317
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2015-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48308'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Orleans''in neitsyt
+
+  Romantillinen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/48308
